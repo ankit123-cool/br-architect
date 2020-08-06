@@ -1,0 +1,48 @@
+
+.q {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.text{ position: absolute;
+FONT-SIZE:70px;
+  bottom: 300px;
+  left: 750px;
+color:black;
+}
+
+.text-block{
+  position: absolute;
+background-color:black;
+FONT-SIZE:70px;
+  bottom: 300px;
+  left: 620px;
+padding:10px;
+}
+button.u{background-color:white;color:black;padding:10px;font-size:20px;border:none;}
+button.u:hover{background-color:#cccccc;color:black;}
+button.p{background-color:white;color:black;padding:10px;font-size:20px;border:none;float:right;}
+button.p:hover{background-color:#cccccc;color:black;}
+button.o{background-color:black;color:white;margin-right:330px;font-size:20px;border:none;}
+button.k{background-color:black;color:white;margin-right:357px;font-size:20px;border:none;}
+h2{font-size:30px;}
+button.y{background-color:#e6e6e6;color:black;border-radius:10px;font-size:20px;border:none;}
+div.g{text-align:center;}
+img.z{border-radius:60%;}
+div.v{background-color:#e6e6e6;}
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+button.r{background-color:black	 ;color:#e6e6e6;padding:10px;font-size:20px;border:none;}
+button.r:hover{background-color:#cccccc;color:black;}
+p{font-size:20px;}
+hr.solid {
+  border-top: 3px solid #bbb;
+}
+h5{text-align:center;}
